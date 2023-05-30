@@ -35,7 +35,7 @@ main {
     transform: translate(-50%,-50%);  /* centraliza a imagem msm quando a tela esta pequena */
     height: 627px;
     width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('imagens/frame-iphone.png') no-repeat;
     
     
  }
