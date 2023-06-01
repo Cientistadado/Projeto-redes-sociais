@@ -39,16 +39,7 @@ main {
     
     
  }
-a#centro  {
-   position: absolute;
-   top:50%; 
-   left: 50%;
-   transform: translate(-51%, -49%);
-   top: 580px;
-  
-  
-   
-}
+
  iframe#tela {
     position: relative;     /* posiciona a imagem onde quiser */
     top:81px; 

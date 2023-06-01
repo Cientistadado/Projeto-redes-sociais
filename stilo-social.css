@@ -11,12 +11,12 @@
 }
 img {
     width: 100vw;
+    height: 100%;
     padding-bottom: 0px;
+    
    
-   
-   
-
 }
+
 a:hover {
     background-color: red;
     color: black;
